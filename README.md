@@ -15,7 +15,5 @@ Build a decision tree classifier to predict whether a customer will purchase a p
 <b>TASK 4: </b>
 Analyze and visualize sentiment patterns in social media data to understand public opinion and attitudes towards specific topics or brands.
 
-<hr>
-<b>TASK 5: </b>
-Analyze traffic accident data to identify patterns related to road conditions, weather, and time of day. Visualize accident hotspots and contributing factors.
+
 
